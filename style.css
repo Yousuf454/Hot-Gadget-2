@@ -1,0 +1,37 @@
+.container{
+   margin-bottom: 30px;
+}
+.top-banner{
+    background-color: orchid;
+    
+}
+h1{
+    font-weight: 700;
+    color: black;
+}
+.carousel-item{
+    padding: 10px 20px
+
+}
+.buy-btn{
+    padding: 5px 20px;
+    background-color: black;
+    color: white;
+    border-radius: 10px;
+}
+.card{
+    border: none;
+    background-color: white;
+    box-shadow: 5px 5px 12px lightgrey;
+}
+.card-footer{
+    background-color: white;
+    border: none;
+}
+.container a{
+    color: orangered;
+    text-decoration: none;
+    margin-bottom: 30px;
+   
+}
+
